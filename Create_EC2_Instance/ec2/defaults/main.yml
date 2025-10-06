@@ -1,0 +1,7 @@
+---
+# defaults file for ec2
+
+type: t2.micro
+sec_group: default
+region: us-east-1
+image: ami-0360c520857e3138f
