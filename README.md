@@ -8,13 +8,13 @@ Repo for Projects on Ansible
    It allows you to specify instance details dynamically via variables, including instance type, security group, region, and AMI ID.
 
    📋 Prerequisites
-  
-    Before running this playbook, ensure the following:
+   
+   Before running this playbook, ensure the following:
 
-    (i) AWS Credentials
+   (i) AWS Credentials
           You must have an AWS account and access keys with permissions to create EC2 instances.
 
-    (ii) Setup EC2 Collection and Authentication
+   (ii) Setup EC2 Collection and Authentication
           Install boto3
               pip install boto3
           Install AWS Collection
