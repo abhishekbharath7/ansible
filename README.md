@@ -1,8 +1,8 @@
-# ansible
+# Ansible
 Repo for Projects on Ansible
 
 
-1) Create_EC2_Instance
+#1) Create_EC2_Instance
 
    This Ansible playbook automates the creation of an Amazon EC2 instance with a public IP address using the amazon.aws.ec2_instance module.
    It allows you to specify instance details dynamically via variables, including instance type, security group, region, and AMI ID.
